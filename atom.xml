@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DracOvO</title>
+  
+  <subtitle>平凡的人生亦不乏伟大的理想</subtitle>
+  <link href="https://github.com/CrispOvO/CrispOvO.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/CrispOvO/CrispOvO.github.io/"/>
+  <updated>2024-01-20T06:11:23.239Z</updated>
+  <id>https://github.com/CrispOvO/CrispOvO.github.io/</id>
+  
+  <author>
+    <name>Draco Liu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>初见</title>
+    <link href="https://github.com/CrispOvO/CrispOvO.github.io/2024/01/20/hello-world/"/>
+    <id>https://github.com/CrispOvO/CrispOvO.github.io/2024/01/20/hello-world/</id>
+    <published>2024-01-20T05:12:43.000Z</published>
+    <updated>2024-01-20T06:11:23.239Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="初见"><a href="#初见" class="headerlink" title="初见"></a>初见</h2><p>今天是2024年1月20日，心血来潮，也是为了有个地方能记录生活和学习，搭建了这个小站。过程并不复杂，成功的时候却收获了意想不到的喜悦。</p><span id="more"></span><p>我将会在这个网站上，记录每天的学习目标以及一些生活中的趣事，偶尔可能添置一些技术文档。我认为这个过程可能就像造房子，需要一点点添砖加瓦，慢慢完善。让我在这里种下一粒种子，等待时间对它的浇灌。</p><h2 id="Updates"><a href="#Updates" class="headerlink" title="Updates"></a>Updates</h2><ul><li>2024-01-20 为网站添加显示主题：Butterfly</li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;初见&quot;&gt;&lt;a href=&quot;#初见&quot; class=&quot;headerlink&quot; title=&quot;初见&quot;&gt;&lt;/a&gt;初见&lt;/h2&gt;&lt;p&gt;今天是2024年1月20日，心血来潮，也是为了有个地方能记录生活和学习，搭建了这个小站。过程并不复杂，成功的时候却收获了意想不到的喜悦。&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
