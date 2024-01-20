@@ -3,11 +3,11 @@
   <title>DracOvO</title>
   
   <subtitle>平凡的人生亦不乏伟大的理想</subtitle>
-  <link href="https://github.com/CrispOvO/CrispOvO.github.io/atom.xml" rel="self"/>
+  <link href="https://crispovo.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/CrispOvO/CrispOvO.github.io/"/>
+  <link href="https://crispovo.github.io/"/>
   <updated>2024-01-20T06:11:23.239Z</updated>
-  <id>https://github.com/CrispOvO/CrispOvO.github.io/</id>
+  <id>https://crispovo.github.io/</id>
   
   <author>
     <name>Draco Liu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>初见</title>
-    <link href="https://github.com/CrispOvO/CrispOvO.github.io/2024/01/20/hello-world/"/>
-    <id>https://github.com/CrispOvO/CrispOvO.github.io/2024/01/20/hello-world/</id>
+    <link href="https://crispovo.github.io/2024/01/20/hello-world/"/>
+    <id>https://crispovo.github.io/2024/01/20/hello-world/</id>
     <published>2024-01-20T05:12:43.000Z</published>
     <updated>2024-01-20T06:11:23.239Z</updated>
     
